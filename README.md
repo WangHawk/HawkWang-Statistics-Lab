@@ -1,2 +1,5 @@
 # HawkWang-Statistics-Lab
-Clinical research design, data analysis, statistical programming.
+Hello friends, 
+Welcome to my lab!
+I focus on clinical research design, data analysis and statistical programming.
+Let's make progress together!
